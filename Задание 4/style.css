@@ -1,0 +1,25 @@
+.button {
+	width: 150px;
+	height: 50px;
+	background-color: #ff9999;
+	margin: 50px;
+	text-transform: uppercase;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: 5px 5px 0 #663333;
+}
+
+.buttons {
+	display: flex;
+	justify-content: center;
+}
+
+.a {
+	margin: 0;
+	font-family: Arial;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+}

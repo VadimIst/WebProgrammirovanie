@@ -1,0 +1,49 @@
+.body {
+	font-family: Arial;
+}
+
+.blue {
+	color: blue;
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
+
+.grey {
+	color: grey;
+}
+
+.chart {
+	color: black;
+	background-color: lightgrey;
+}
+
+.box {
+	width: 530px;
+}
+
+.code {
+	background-color: lightgrey;
+}
+
+.curs {
+	font-style: italic;
+	color: grey;
+	opacity: 0.4;
+	font-weight: bolder;
+	letter-spacing: 0.035em;
+}
+
+.bold {
+	font-weight: bolder;
+}
+
+.code1 {
+	background-color: lightgrey;
+	overflow-x: scroll;
+}

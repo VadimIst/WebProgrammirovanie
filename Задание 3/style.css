@@ -1,0 +1,14 @@
+.b {
+	margin: 15px;
+}
+
+#d1 {
+	width: 165px;
+	height: 60px;
+	border: 1px solid #000;
+}
+
+.white {
+	color: #fff;
+	background-color: #000;
+		}

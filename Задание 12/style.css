@@ -1,0 +1,80 @@
+body {
+	margin: 0;
+	font-family: Arial;
+	background-color: #333;
+}
+
+h1 {
+	margin: 0;
+}
+
+.container {
+	padding: 15px;
+	width: 815px;
+	height: 340px;
+	background-color: #fff;
+	margin: 50px;
+}
+
+.other {
+	display: flex;
+	margin-top: 20px;
+}
+
+
+.icon {
+	width: 17px;
+	height: 17px;
+}
+
+.other p {
+	margin: 0 15px 0 5px;
+	font-size: 15px;
+	color: grey;
+}
+
+.other p:last-child {
+	margin-right: 0;
+}
+
+.right {
+	margin-left: 255px;
+}
+
+.words {
+	display: flex;
+	margin-left: 10px;
+}
+
+.words p {
+	font-size: 15px;
+	color: #fff;
+	background-color: grey;
+	padding: 2px 4px;
+	font-weight: bold;
+	margin: 7px 5px;
+}
+
+.robot {
+	width: 220.66px;
+	height: 182.66px;
+	margin: 30px;
+}
+
+.info {
+	display: flex;
+}
+
+.text p {
+	margin: 35px 0;
+	font-size: 15px;
+}
+
+.text p:last-child {
+	margin-top: 90px;
+}
+
+.text a {
+	text-decoration: none;
+	font-style: italic;
+}
